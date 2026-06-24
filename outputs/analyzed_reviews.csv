@@ -1,0 +1,16 @@
+review,label,cleaned_review,sentiment
+I absolutely love this product! It exceeded my expectations.,positive,absolutely love product exceeded expectation,positive
+This is the worst purchase I've ever made. Terrible quality.,negative,worst purchase ive ever made terrible quality,negative
+"The item is okay, nothing special but gets the job done.",neutral,item okay nothing special get job done,neutral
+Amazing service and fast delivery. Highly recommend!,positive,amazing service fast delivery highly recommend,positive
+"Disappointed with the color, not as shown in the picture.",negative,disappointed color shown picture,negative
+"Pretty good for the price, would buy again.",positive,pretty good price would buy,positive
+"Absolutely horrible experience, never buying again.",negative,absolutely horrible experience never buying,negative
+"Neutral feelings about this, average product.",neutral,neutral feeling average product,neutral
+Fantastic! Best thing ever.,positive,fantastic best thing ever,positive
+Complete waste of money.,negative,complete waste money,neutral
+I had high hopes but it broke after one week. Poor durability.,negative,high hope broke one week poor durability,neutral
+The customer support was excellent and resolved my issue quickly.,positive,customer support excellent resolved issue quickly,positive
+"It's mediocre at best, not worth the hype.",neutral,mediocre best worth hype,neutral
+This changed my life for the better. Highly recommended!,positive,changed life better highly recommended,positive
+"Terrible packaging, product arrived damaged.",negative,terrible packaging product arrived damaged,negative
