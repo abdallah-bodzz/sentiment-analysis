@@ -80,7 +80,7 @@ sentiment-analysis/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/abdallah-bodzz/sentiment-analysis
 cd sentiment-analysis
 ```
 
